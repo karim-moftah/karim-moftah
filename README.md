@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 
 
-
-###    :star: GitHub Stats:
 <div style="display:none">
+###    :star: GitHub Stats:
+
 <p align="center" style="display:none">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah" style="display:none" /></p>
 
