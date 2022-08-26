@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,nodejs,mongo,express,git,github,docker,kubernetes,heroku,aws,bash,linux,md,vscode&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,nodejs,express,mongo,git,github,docker,kubernetes,heroku,aws,bash,linux,md,vscode&theme=light&perline=10" />
       </a></p>
 
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah" /></p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=karim-moftah&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=karim-moftah&&style=flat-square" align="center" display="none" />
 </div>  
 </p>
 
