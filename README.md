@@ -50,18 +50,18 @@ Here are some ideas to get you started:
 
 
 
-<div style="display:none">
+
 ###    :star: GitHub Stats:
 
-<p align="center" style="display:none">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah" style="display:none" /></p>
-
-<div align="center" style="display:none">
-<img src="https://komarev.com/ghpvc/?username=karim-moftah&&style=flat-square" align="center" style="display:none" />
-</div>  
+<p align="center" >
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah"  /></p>
+<! --
+<div align="center" >
+<img src="https://komarev.com/ghpvc/?username=karim-moftah&&style=flat-square" align="center"  />
+</div>  -->
 </p>
 
-</div>
+
 
 
 
