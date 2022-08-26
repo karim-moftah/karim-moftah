@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div> 
 -->
 
-![Header](./assets/github-header.png)
+![Header](./assets/github-header2.png)
 
 
 
