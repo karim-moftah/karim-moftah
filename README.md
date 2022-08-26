@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ###    :star: GitHub Stats:
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-moftah&show_icons=true&locale=en" alt="karim-moftah" /></p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=karim-moftah&&style=flat-square" align="center" />
