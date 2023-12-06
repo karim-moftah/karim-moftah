@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-### :telephone_receiver: Connect With Me:
+### :link: Connect With Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-moftah-3b0bb31b4/">
