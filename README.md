@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-### :link: Connect With Me:
+###  Connect With Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-moftah-3b0bb31b4/">
